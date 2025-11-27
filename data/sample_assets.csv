@@ -1,1 +1,4 @@
+asset_id,title,source,url,text,word_count,created_at
+asset_1,Google Shopping Overview,url,https://example.com/google-shopping,"Google Shopping content text ...",120,2025-11-01
+asset_2,Feed Management Basics,pdf,feed_management.pdf,"Feed management content text ...",200,2025-11-02
 
