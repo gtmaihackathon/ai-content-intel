@@ -1,1 +1,5 @@
+{
+  "instruction": "Classify content asset and return JSON",
+  "fields": ["persona", "persona_confidence", "funnel_stage", "funnel_confidence", "topic", "intent", "summary"]
+}
 
