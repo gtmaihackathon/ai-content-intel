@@ -1,1 +1,10 @@
+streamlit
+pandas
+numpy
+openai
+trafilatura
+pdfplumber
+faiss-cpu
+scikit-learn
+python-dotenv
 
