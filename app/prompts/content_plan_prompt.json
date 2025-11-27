@@ -1,1 +1,5 @@
+{
+  "instruction": "Generate quarterly content plan based on coverage gaps and existing assets",
+  "fields": ["title", "persona", "funnel_stage", "format", "priority", "brief", "why"]
+}
 
